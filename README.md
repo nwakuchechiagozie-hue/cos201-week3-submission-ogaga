@@ -1,4 +1,4 @@
-# COS 201 - Week 3 Assignment
+# COS 201 - Assignments
 
 **Student Name:** Oruma Ogaga Joseph  
 **Matriculation Number:** 25/16231  
